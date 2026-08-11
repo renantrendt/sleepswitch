@@ -1,0 +1,8 @@
+# Build artifact (produced by ./build.sh)
+SleepSwitch.app/
+
+# macOS
+.DS_Store
+
+# Editor / tooling
+.claude/
